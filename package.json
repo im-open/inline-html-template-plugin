@@ -1,7 +1,7 @@
 {
   "name": "inline-html-template-plugin",
   "version": "0.0.1",
-  "description": "",
+  "description": "A Webpack plugin for inlining fully rendered HTML as a template string.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -18,8 +18,16 @@
     "url": "git+https://github.com/WTW-IM/inline-html-template-plugin.git"
   },
   "keywords": [
-    "HTMLElement",
-    "Web Components"
+    "Web Components",
+    "webpack",
+    "webpack4",
+    "webpack-plugin",
+    "inline",
+    "internal",
+    "embedded",
+    "document",
+    "html",
+    "markup"
   ],
   "author": "Steve Matney",
   "license": "ISC",
